@@ -1,0 +1,19 @@
+# Compiled executables
+pewpewshell
+*.exe
+*.out
+*.app
+
+# Object files and libraries
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+
+# Debug symbols (especially common on macOS)
+*.dSYM/
+
+# IDE and OS clutter
+.vscode/
+.DS_Store
